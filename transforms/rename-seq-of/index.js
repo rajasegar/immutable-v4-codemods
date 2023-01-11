@@ -17,7 +17,7 @@ module.exports = function transformer(file, api) {
     })
     .replaceWith((path) => {
       const args = path.value.arguments;
-      return j.callExpression(j.identifier('Seq'), args);
+      return j.callExpression(j.identifier('Seq'), [j.arrayExpression(args)]);
     });
 
   return root.toSource();
