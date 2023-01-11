@@ -35,7 +35,7 @@ Seq.of(1, 2, 3);
 
 **Output** (<small>[basic.output.js](transforms/rename-seq-of/__testfixtures__/basic.output.js)</small>):
 ```js
-Seq(1, 2, 3);
+Seq([1, 2, 3]);
 
 ```
 <!--FIXTURES_CONTENT_END-->
