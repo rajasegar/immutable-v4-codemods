@@ -1,7 +1,7 @@
 # immutable-v4-codemods
 
 
-A collection of codemods for immutable-v4-codemods.
+A collection of codemods for upgrading immutable.js from v3 to v4.
 
 ## Usage
 

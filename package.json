@@ -10,8 +10,17 @@
   },
   "bin": "./bin/cli.js",
   "keywords": [
-    "codemod-cli"
+    "codemod-cli",
+		"codemod",
+		"codemods",
+		"immutable"
   ],
+	"repository": {
+    "type": "git",
+    "url": "https://github.com/rajasegar/react-router-v6-codemods"
+  },
+	 "license": "MIT",
+  "author": "Rajasegar Chandran <rajasegar.c@gmail.com>",
   "dependencies": {
     "codemod-cli": "^3.2.0"
   },
