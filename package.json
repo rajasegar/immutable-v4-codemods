@@ -1,6 +1,6 @@
 {
   "name": "immutable-v4-codemods",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "scripts": {
     "lint": "eslint --cache .",
     "test": "codemod-cli test",
@@ -11,15 +11,15 @@
   "bin": "./bin/cli.js",
   "keywords": [
     "codemod-cli",
-		"codemod",
-		"codemods",
-		"immutable"
+    "codemod",
+    "codemods",
+    "immutable"
   ],
-	"repository": {
+  "repository": {
     "type": "git",
     "url": "https://github.com/rajasegar/react-router-v6-codemods"
   },
-	 "license": "MIT",
+  "license": "MIT",
   "author": "Rajasegar Chandran <rajasegar.c@gmail.com>",
   "dependencies": {
     "codemod-cli": "^3.2.0"
