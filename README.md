@@ -28,6 +28,7 @@ node ./bin/cli.js <TRANSFORM NAME> path/of/files/ or/some**/*glob.js
 
 <!--TRANSFORMS_START-->
 * [map-to-array](transforms/map-to-array/README.md)
+* [rename-seq-of](transforms/rename-seq-of/README.md)
 <!--TRANSFORMS_END-->
 
 ## Contributing
