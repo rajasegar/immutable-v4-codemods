@@ -1,5 +1,8 @@
 # immutable-v4-codemods
 
+![Build and Deploy](https://github.com/rajasegar/immutable-v4-codemods/workflows/CI/badge.svg)
+[![npm version](http://img.shields.io/npm/v/immutable-v4-codemods.svg?style=flat)](https://npmjs.org/package/immutable-v4-codemods 'View this project on npm')
+
 
 A collection of codemods for upgrading immutable.js from v3 to v4.
 
